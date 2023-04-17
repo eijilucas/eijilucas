@@ -1,8 +1,6 @@
 ### Olá eu sou o Lucas!
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- ✍🏻 Futuro Dev Full-Stack
-- 🌱 Aprendendo Front-End
 - 😄 Pronomes: He/Him
 
 <div>
