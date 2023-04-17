@@ -1,7 +1,8 @@
 ### Olá eu sou o Lucas!
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: He/Him
+- 😄 Pronomes: Ele/dele
+- 👨🏼‍💻 Linguagens utilizadas:
 
 <div>
   <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
