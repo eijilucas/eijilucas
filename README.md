@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 👨🏼‍💻 Linguagens utilizadas:
-- 
+
 <div>
 <img height="70em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
 <div>
