@@ -1,7 +1,6 @@
 ### Olá eu sou o Lucas!
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ele/dele
 - 👨🏼‍💻 Linguagens utilizadas:
 
 <div>
