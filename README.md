@@ -2,9 +2,11 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 👨🏼‍💻 Linguagens utilizadas:
-
+- 
+<div>
 <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
-
+<div>
+  
 <div>
   <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
