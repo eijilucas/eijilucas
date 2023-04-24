@@ -1,8 +1,8 @@
 ### Olá eu sou o Lucas!
-
+<h1>
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 👨🏼‍💻 Linguagens utilizadas:
-
+<h1>
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dracula&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
