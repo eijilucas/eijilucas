@@ -4,8 +4,9 @@
 - 👨🏼‍💻 Linguagens utilizadas:
 
 <div>
-<img height="70em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
-<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
+</div>
   
 <div>
   <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
