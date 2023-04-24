@@ -1,8 +1,7 @@
 ### Olá eu sou o Lucas!
 
 <div>
-    <img height="130em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dark&count_private=true">
-    <img height="130em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dark">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dark&count_private=true">
 </div>
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
