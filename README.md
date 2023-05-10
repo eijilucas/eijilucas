@@ -5,7 +5,7 @@
 </div>
 
 - 👨‍💻 Backend Developer
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas 3º semestre
 - 👨🏼‍💻 Linguagens utilizadas:
 
 <div>
