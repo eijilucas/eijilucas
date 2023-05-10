@@ -1,4 +1,4 @@
-### Olá eu sou o Lucas!
+### Welcome to my profile!
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dark&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
