@@ -1,10 +1,10 @@
 ### Olá eu sou o Lucas!
-- Backend Developer
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dark&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
 </div>
 
+- 👨‍💻 Backend Developer
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 👨🏼‍💻 Linguagens utilizadas:
 
