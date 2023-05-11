@@ -4,7 +4,7 @@
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
 </div>
 
-- 👨‍💻 Backend Developer
+- 👨‍💻 Fullstack Developer
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas 3º semestre
 - 👨🏼‍💻 Linguagens utilizadas:
 
