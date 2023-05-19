@@ -9,7 +9,6 @@
 
 - 👨‍💻 Backend Developer
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas 3º semestre
-- 👨🏼‍💻 Linguagens utilizadas:
 
 <div>
   <img align="center" alt="Java" height="50em" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
