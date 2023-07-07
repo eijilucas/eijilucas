@@ -1,13 +1,15 @@
 ### Welcome to my profile!
 
-- I'm a Full Stack Developer focusing on Spring Boot and React
+- I am a "Full Stack" Developer focusing on Spring Boot(Back-End) and ReactJS(Web Front-End)
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dark&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
 </div>
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas 4º semestre
+- 🎓 Análise e Desenvolvimento de Sistemas 4º semestre
+- Front-End with ReactJS
+- Back-End with Spring
 
 <div>
   <img align="center" alt="Java" height="50em" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
