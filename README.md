@@ -9,7 +9,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas 4º semestre
 - 🧰 Toolbox
-- Front-End with ReactJS
+- Front-End with React
 - Back-End with Spring
 
 <div>
