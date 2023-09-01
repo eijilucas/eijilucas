@@ -20,7 +20,4 @@
   <img align="center" alt="JS" height="50em" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center" alt="TypeScript" height="50em" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center" alt="ReactJS" height="50em" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="MYSQL" height="50em" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-  <img align="center" alt="Postgres" height="50em" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img align="center" alt="Mongo" height="50em" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">  
 </div>
