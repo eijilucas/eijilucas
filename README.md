@@ -7,7 +7,7 @@
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=eijilucas&layout=compact&theme=dracula">
 </div>
 
-- 🎓 Análise e Desenvolvimento de Sistemas 4º semestre
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🧰 Toolbox
 - Front-End with React
 - Back-End with Spring
