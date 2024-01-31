@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-- I am a Full Stack Developer focusing on Spring Boot(Back-End) and ReactJS(Web Front-End)
+- I'm a Full Stack Developer focusing on Spring Boot(Back-End) and ReactJS(Web Front-End)
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=eijilucas&show_icons=true&theme=dark&count_private=true">
