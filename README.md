@@ -8,7 +8,6 @@
 </div>
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🧰 Toolbox
 - Front-End with React
 - Back-End with Spring
 
