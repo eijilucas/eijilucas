@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile!<br>I'm a FullStack Developer focusing on Spring Boot and ReactJS
+Welcome to my profile!<br><br>I'm a FullStack Developer focusing on Spring Boot and ReactJS
 
 
 ## 🌐 Socials:
